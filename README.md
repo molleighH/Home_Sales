@@ -7,6 +7,6 @@ Use my knowledge of SparkSQL to determine key metrics about home sales data; the
 ## Findings
 ##### 3.What is the average price for a four bedroom house sold per year, rounded to two decimal places?
 
-<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/3.png" width="400" height="350" border="10"/>
+<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/3.png" width="300" height="350" border="10"/>
 
 ##### 4.What is the average price of a home for each year the home was built, that have 3 bedrooms and 3 bathrooms, rounded to two decimal places?
