@@ -31,4 +31,4 @@ Use my knowledge of SparkSQL to determine key metrics about home sales data; the
 
 ##### 15.Check if the home_sales is no longer cached
 
-<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/15.png" width="450" height="350" border="10"/>
+<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/15.png" width="350" height="300" border="10"/>
