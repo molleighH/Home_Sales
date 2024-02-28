@@ -11,7 +11,7 @@ Use my knowledge of SparkSQL to determine key metrics about home sales data; the
 
 ##### 4.What is the average price of a home for each year the home was built, that have 3 bedrooms and 3 bathrooms, rounded to two decimal places?
 
-<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/4.png" width="350" height="400" border="10"/>
+<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/4.png" width="350" height="420" border="10"/>
 
 #####  5.What is the average price of a home for each year the home was built, that have 3 bedrooms, 3 bathrooms, with two floors, & are greater than or equal to 2,000 square feet, rounded to two decimal places?
 
