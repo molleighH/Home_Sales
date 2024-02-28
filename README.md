@@ -24,3 +24,7 @@ Use my knowledge of SparkSQL to determine key metrics about home sales data; the
 ##### 9.Using the cached data, run the last query above, that calculates the average price of a home per "view" rating, rounded to two decimal places, having an average home price greater than or equal to $350,000 Runtime?
 
 <img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/9.png" width="350" height="500" border="10"/>
+
+##### 13.Using the parquet DataFrame, run the last query above, that calculates the average price of a home per "view" rating, rounded to two decimal places, having an average home price greater than or equal to $350,000. Runtime?
+
+<img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/13.png" width="350" height="500" border="10"/>
