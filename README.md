@@ -32,3 +32,11 @@ Use my knowledge of SparkSQL to determine key metrics about home sales data; the
 ##### 15.Check if the home_sales is no longer cached
 
 <img src="https://github.com/molleighH/Home_Sales/blob/main/Resources/15.png" width="650" height="300" border="10"/>
+
+
+## Conclusion 
+Based on the runtime results, cached data and the parquet data are both faster than the original data. This is attributed to optimizations offered by caching and parquet data format. 
+
+Caching the data always storing the data in memory. This is a great way to speed up queries, because it is retrieving directly from memory, which elminates the need for reading the data from disk. 
+
+Parquet in a columnar storage file format designed to improve data storage efficieny, to improve query performance & speed processing, to improve compatibility with various big data frameworks/ecosystems. I believe the the parquet formatted data is meant to demonstrate the best runtime among the three options this module has explored; despite, what times my laptop recorded. This may be attributed to optimized storage format, efficient compression, and the ability to leverage columnar optimisations during query exectuion of the data. In using parquet and it's abilities, a faster query performance, a reduced storage requirement, and  an imporved overall data processing efficiency is most likely to occur.  
